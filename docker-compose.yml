@@ -1,0 +1,7 @@
+version: '1.0.0'
+
+services:
+  graph-nodejs:
+    image: graphql-nodejs
+    ports:
+      - "8000:8000"

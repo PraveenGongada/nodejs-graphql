@@ -1,0 +1,6 @@
+**/node_modules/
+.git/
+.env
+.aws
+package-lock.json
+docker-compose.yml
